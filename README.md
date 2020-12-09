@@ -1,5 +1,7 @@
 # IdeaCoin
 
+Application uses Google FireBase for managing authorization
+
 ## Running the project
 1. go to `ideacoin` folder
 2. in console run `npm install`
